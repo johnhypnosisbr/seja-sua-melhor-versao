@@ -1232,6 +1232,8 @@ a.cart-btn {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  
+  background-color: #ff3399;
 }
 
 a.cart-btn:hover {
@@ -2429,7 +2431,7 @@ p.product-price span {
 a.cart-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #ffcce6;
+  background-color: #ff3399;
   color: #fff;
   padding: 10px 20px;
 }
