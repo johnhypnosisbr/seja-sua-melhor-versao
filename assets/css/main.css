@@ -2058,11 +2058,7 @@ a.video-play-btn {
 }
 
 .abt-bg {
-  background-image: url(../img/auto.png);
-  height: 50%;
   width: 100%;
-  background-size: 100%;
-  background-repeat: no-repeat;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
   position: relative;
