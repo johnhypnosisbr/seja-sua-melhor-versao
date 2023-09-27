@@ -2748,3 +2748,11 @@ table.order-details tbody td {
 .item-img{
   width: 20px;
 }
+
+.center{
+  text-align: justify;
+}
+
+.imgbook{
+  border-radius: 15px;
+}
